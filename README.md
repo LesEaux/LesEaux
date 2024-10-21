@@ -1,7 +1,7 @@
 ## 📖 About me
 
-- 👨🏼‍🎓 IT student in a third year of BUT Informatique
-- 📍 Orléans University, France
+- 👨🏼‍🎓 IT Developer at TX2 Concept
+- 📍 Olivet, France
 
 ## Technologies
 
