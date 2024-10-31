@@ -43,6 +43,7 @@
 ## IDE
 
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?&logo=PhpStorm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?&logo=IntelliJ%20IDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=Visual%20Studio%20Code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?&logo=Xcode&logoColor=white)
 
