@@ -6,15 +6,22 @@
 ## Technologies
 
 ### Programming Languages
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=CSS3&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?&logo=Dart&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=HTML5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=PHP&logoColor=white)
+![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
+![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
 
-### Web Frameworks
+### Frameworks
 ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Flask](https://img.shields.io/badge/-Flask-000000?&logo=Flask)
 ![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
 
